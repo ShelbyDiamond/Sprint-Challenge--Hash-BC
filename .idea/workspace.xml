@@ -133,7 +133,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1584755838041</updated>
-      <workItem from="1584755840189" duration="4524000" />
+      <workItem from="1584755840189" duration="5059000" />
     </task>
     <servers />
   </component>
@@ -141,26 +141,26 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="636" height="178" key="GridCell.Tab.0.bottom" timestamp="1584762527766">
+    <state width="636" height="178" key="GridCell.Tab.0.bottom" timestamp="1584763014786">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="636" height="178" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1584762527766" />
-    <state width="636" height="178" key="GridCell.Tab.0.center" timestamp="1584762527765">
+    <state width="636" height="178" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1584763014786" />
+    <state width="636" height="178" key="GridCell.Tab.0.center" timestamp="1584763014786">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="636" height="178" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1584762527765" />
-    <state width="636" height="178" key="GridCell.Tab.0.left" timestamp="1584762527765">
+    <state width="636" height="178" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1584763014786" />
+    <state width="636" height="178" key="GridCell.Tab.0.left" timestamp="1584763014786">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="636" height="178" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1584762527765" />
-    <state width="636" height="178" key="GridCell.Tab.0.right" timestamp="1584762527765">
+    <state width="636" height="178" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1584763014786" />
+    <state width="636" height="178" key="GridCell.Tab.0.right" timestamp="1584763014786">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="636" height="178" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1584762527765" />
+    <state width="636" height="178" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1584763014786" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Sprint_Challenge__Hash_BC$ex2.coverage" NAME="ex2 Coverage Results" MODIFIED="1584758232248" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hashtables/ex2" />
-    <SUITE FILE_PATH="coverage/Sprint_Challenge__Hash_BC$miner.coverage" NAME="miner Coverage Results" MODIFIED="1584762527748" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/blockchain" />
+    <SUITE FILE_PATH="coverage/Sprint_Challenge__Hash_BC$miner.coverage" NAME="miner Coverage Results" MODIFIED="1584763014771" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/blockchain" />
     <SUITE FILE_PATH="coverage/Sprint_Challenge__Hash_BC$Unittests_in_ex1_tests_py.coverage" NAME="Unittests in ex1_tests.py Coverage Results" MODIFIED="1584757274126" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hashtables/ex1" />
     <SUITE FILE_PATH="coverage/Sprint_Challenge__Hash_BC$Unittests_in_ex2_tests_py.coverage" NAME="Unittests in ex2_tests.py Coverage Results" MODIFIED="1584758239574" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hashtables/ex2" />
   </component>
